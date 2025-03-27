@@ -35,9 +35,9 @@ Then add the dependency:
 
 ```xml
 <dependency>
-    <groupId>com.github.yourusername</groupId>
+    <groupId>com.github.ggoncalves</groupId>
     <artifactId>java-ggutils-console</artifactId>
-    <version>v1.0.0</version>
+    <version>1.0-SNAPSHOT</version>
 </dependency>
 ```
 
@@ -54,7 +54,7 @@ Add the dependency:
 
 ```groovy
 dependencies {
-    implementation 'com.github.yourusername:java-ggutils-console:v1.0.0'
+    implementation 'com.github.ggoncalves:java-ggutils-console:1.0-SNAPSHOT'
 }
 ```
 
